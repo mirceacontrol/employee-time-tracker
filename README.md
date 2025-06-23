@@ -99,12 +99,6 @@ Easily deployable to Azure Container Apps, Azure Web App for Containers, or any 
 
 ---
 
-##  License
-
-MIT (add a real license if open-sourcing)
-
----
-
 ## Contact
 
 Made by [Mircea](https://github.com/mirceacontrol).
