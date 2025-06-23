@@ -19,7 +19,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Optional: For local/dev, you can comment this out:
 app.UseHttpsRedirection();
 
 app.MapControllers();  // This enables attribute routing for your controllers!
